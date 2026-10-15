@@ -1,0 +1,9 @@
+{"booking_id":"B1001","origin":"SVO","destination":"LED","status":"confirmed","currency":"RUB","price":"12000.50","booked_at":"2026-10-10","departure_date":"2026-11-01","updated_at":"2026-10-10T10:00:00Z"}
+{"booking_id":"B1002","origin":"SVO","destination":"LED","status":"confirmed","currency":"RUB","price":"8500.00","booked_at":"2026-10-10","departure_date":"2026-11-02","updated_at":"2026-10-10T11:00:00Z"}
+{"booking_id":"B1003","origin":"LED","destination":"SVO","status":"confirmed","currency":"RUB","price":"9900.00","booked_at":"2026-10-11","departure_date":"2026-11-03","updated_at":"2026-10-11T11:00:00Z"}
+{"booking_id":"B1004","origin":"SVO","destination":"DXB","status":"confirmed","currency":"USD","price":"300.00","booked_at":"2026-10-11","departure_date":"2026-11-04","updated_at":"2026-10-11T12:00:00Z"}
+{"booking_id":"B1005","origin":"SVO","destination":"LED","status":"confirmed","currency":"RUB","price":"-100","booked_at":"2026-10-12","departure_date":"2026-11-05","updated_at":"2026-10-12T10:00:00Z"}
+{"booking_id":"B1006","origin":"SVO","destination":"LED","status":"confirmed","currency":"ZZZ","price":"12000","booked_at":"2026-10-12","departure_date":"2026-11-05","updated_at":"2026-10-12T11:00:00Z"}
+{"booking_id":"B1007","origin":"SVO","destination":"LED","status":"confirmed","currency":"RUB","price":"12000","booked_at":"2026-10-12","departure_date":"2026-09-01","updated_at":"2026-10-12T12:00:00Z"}
+{"booking_id":"B1002","origin":"SVO","destination":"LED","status":"cancelled","currency":"RUB","price":"8500.00","booked_at":"2026-10-10","departure_date":"2026-11-02","updated_at":"2026-10-13T11:00:00Z"}
+{"booking_id":"B1001","origin":"SVO","destination":"LED","status":"confirmed","currency":"RUB","price":"12000.50","booked_at":"2026-10-10","departure_date":"2026-11-01","updated_at":"2026-10-10T10:00:00Z"}
